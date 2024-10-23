@@ -21,7 +21,7 @@
 N’hésitez pas à me contacter et innovons ensemble ! 🚀
 
 <p align='center'>
-  <a href="https://www.linkedin.com/"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main//linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mahamat-hassan-abdoulaye-4a6853234/"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main//linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/elkariganosa_man_waris/"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;
   <a href="mailto:mahamatkariga@gmail.com"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main/envelope-alt.png?raw=true"></a>
