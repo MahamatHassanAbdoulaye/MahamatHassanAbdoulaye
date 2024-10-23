@@ -1,10 +1,11 @@
 # ![MahamatHassan Abdoulaye](https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main/banner.png)
 
-         👋 Salut, je suis Mahamat Hassan Abdoulaye
+           👋 Salut, je suis MAHAMAT HASSAN  ABDOULAYE
 🎓 Je suis étudiant en Master, spécialisé en Systèmes d'Information Intelligents.
-👀 Je suis passionné par l’Intelligence Artificielle, la Science des Données et la Vision par Ordinateur.
 
-#🌱 Je suis en constante exploration de nouvelles compétences dans le monde numérique et technologique pour rester à la pointe des technologies émergentes.
+ 👀 Je suis passionné par l’Intelligence Artificielle, la Science des Données et la Vision par Ordinateur.
+
+🌱 Je suis en constante exploration de nouvelles compétences dans le monde numérique et technologique pour rester à la pointe des technologies émergentes.
 
 💻 J’apprends actuellement des techniques avancées de machine learning, des algorithmes de vision par ordinateur, et comment les appliquer dans des projets concrets.
 
@@ -13,9 +14,10 @@
 
 💪🧠🔨 J'ai egalement des competance en Devellopement et je cherche à résoudre les problèmes du monde réel.
 
-⚡ Fun fact : Je suis fasciné par l'intersection entre l'IA et la créativité humaine, et je suis toujours à la recherche de tendances technologiques révolutionnaires qui repoussent les limites , 'jaime partager mes connaissances avec les autres de manière aussi ouverte que possible.!
+⚡ Je suis fasciné par l'intersection entre l'IA et la créativité humaine, et je suis toujours à la recherche de tendances technologiques révolutionnaires qui repoussent les limites ,
+   j'aime partager mes connaissances avec les autres de manière aussi ouverte que possible.!
 
-📫 Vous pouvez me contacter à [mahamatkariga@gmail.com].
+📫 Vous pouvez me contacter à mahamatkariga@gmail.com.
 N’hésitez pas à me contacter et innovons ensemble ! 🚀
 
 <p align='center'>
@@ -43,6 +45,7 @@ N’hésitez pas à me contacter et innovons ensemble ! 🚀
 <p> 
   
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<!--img src="https://visitor-badge.glitch.me/badge?page_id=MahamatHassanAbdoulaye.visitor-badge"/-->
 </p>
 
 
