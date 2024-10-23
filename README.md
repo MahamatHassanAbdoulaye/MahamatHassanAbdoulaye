@@ -23,7 +23,7 @@ N’hésitez pas à me contacter et innovons ensemble ! 🚀
 <p align='center'>
   <a href="https://www.linkedin.com/"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main//linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/elkariganosa_man_waris/"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;
   <a href="mailto:mahamatkariga@gmail.com"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main/envelope-alt.png?raw=true"></a>
   <a href="https://www.facebook/"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main/facebook-f.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/"><img height="24" src="https://github.com/MahamatHassanAbdoulaye/MahamatHassanAbdoulaye/blob/main/youtube.png?raw=true"></a>&nbsp;&nbsp;
